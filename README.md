@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BugReportOnWeb aka Dev
-- 👀 I’m interested in GNU/Linux, backend development, low-level programming
-- 🌱 I’m currently learning Rust (Out on my journey to being a Rustacean 🦀)
-- 💞️ Looking for collaborative opportunities to advance my development skills.
+- 👋 Hey! I'm @BugReportOnWeb, but you can call me Dev
+- 👀 My interests include GNU/Linux, backend development, and low-level programming
+- 🌱 Currently exploring Rust's unique features and modern programming paradigms.
+- 💞️ Looking for exciting projects to contribute to and advance my development skills
 - 📫 How to reach me:
   - Email: devkaul@proton.me
   - Telegram: @devkaul
