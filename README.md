@@ -1,8 +1,6 @@
-- 👋 Hey! I'm @BugReportOnWeb, but you can call me Dev
-- 👀 My interests include GNU/Linux, backend development, and low-level programming
-- 🌱 Currently exploring Rust's unique features and modern programming paradigms.
-- 💞️ Looking for exciting projects to contribute to and advance my development skills
-- 📫 How to reach me:
-  - Email: devkaul@proton.me
-  - Telegram: @devkaul
-  - IRC: CorpatFile@libera.chat
+I don't know what I'm doing but I like what I'm doing!
+Wanna reach out?
+- Email: devkaul@proton.com (alternative: devasheesh0909@gmail.com)
+- Discord: @devkaul
+- Telegram: @devkaul
+- IRC: CorpatFile@libera.chat (kinda inactive)
